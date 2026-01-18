@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Shaaban</h1>
-<h3 align="center">FrontEnd Developer specializing in React, TypeScript, and Tailwind CSS.</h3>
+<h3 align="center">Frontend Developer specializing in React, TypeScript, and Tailwind CSS.</h3>
 
 
 ## 🌐 Socials:
