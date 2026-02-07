@@ -17,11 +17,16 @@
 </p>
 
 <p align="center"> 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,react,tailwindcss" alt="Tech Stack Icons"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,tailwindcss" alt="Tech Stack Icons"/>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbdulrahmanShaaban&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AbdulrahmanShaaban&theme=shadow_red&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanShaaban&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="500">
+        <b>"شعور الإنسان بجهله ضرب من ضروب المعرفة"</b><br>
+        <b>--ابن خلدون--</b>
+      </td>
+    </tr>
+  </table>
+</div>
