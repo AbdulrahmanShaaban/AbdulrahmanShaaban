@@ -3,7 +3,7 @@
   <img src="assets/waving hand.gif" width="32" alt="Waving Hand">
   , I'm Abdulrahman  
 </h1>
-<h3 align="center">Frontend Developer specializing in React, TypeScript, and Tailwind CSS.</h3>
+<h3 align="center">MERN Stack Developer specializing in React,TypeScript,Nodejs,Expressjs,MongoDB and Tailwind CSS.</h3>
 
 <p align="center">
   <img src="assets/coding.gif" width="300" alt="Animated Logo">
@@ -11,7 +11,7 @@
 
 
 <p align="center"> 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,tailwindcss" alt="Tech Stack Icons"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,tailwindcss,nodejs,expressjs,mongodb" alt="Tech Stack Icons"/>
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -25,8 +25,7 @@
   <table>
     <tr>
       <td align="center" width="500">
-        <b>"شعور الإنسان بجهله ضرب من ضروب المعرفة"</b><br>
-        <b>--ابن خلدون--</b>
+        <b>"لا أَبْرَحُ حَتَّى أَبْلُغَ"</b>
       </td>
     </tr>
   </table>
