@@ -21,12 +21,3 @@
 <a href="https://www.instagram.com/she3ba._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/she3ba._/" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="500">
-        <b>"لا أَبْرَحُ حَتَّى أَبْلُغَ"</b>
-      </td>
-    </tr>
-  </table>
-</div>
